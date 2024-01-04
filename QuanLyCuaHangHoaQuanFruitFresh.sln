@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyCuaHangHoaQuanFruitFresh", "QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh.csproj", "{0E9EA4CE-82B6-43EA-BAB9-27B3BEE81071}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setup", "setup\setup.vdproj", "{A361B264-1B67-4631-94F1-6296EC8A7768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E9EA4CE-82B6-43EA-BAB9-27B3BEE81071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9EA4CE-82B6-43EA-BAB9-27B3BEE81071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9EA4CE-82B6-43EA-BAB9-27B3BEE81071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9EA4CE-82B6-43EA-BAB9-27B3BEE81071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A361B264-1B67-4631-94F1-6296EC8A7768}.Debug|Any CPU.ActiveCfg = Debug
+		{A361B264-1B67-4631-94F1-6296EC8A7768}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B081EE07-77B1-44DF-B162-6F9DACC951C3}
+	EndGlobalSection
+EndGlobal

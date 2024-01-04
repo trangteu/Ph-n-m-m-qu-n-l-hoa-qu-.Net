@@ -1,0 +1,77 @@
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe.config
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.pdb
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.AssemblyReference.cache
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.SuggestedBindingRedirects.cache
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.Form1.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.Properties.Resources.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.GenerateResource.cache
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.CoreCompileInputs.cache
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.pdb
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh._2DangKy.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyHangHoa.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyKhachHang.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyNhanVien.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyHoaDon.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.GiaoDienChinh.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe.config
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.pdb
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.AssemblyReference.cache
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.SuggestedBindingRedirects.cache
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.Form1.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh._2DangKy.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.GiaoDienChinh.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.Properties.Resources.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyHangHoa.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyHoaDon.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyKhachHang.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyNhanVien.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.GenerateResource.cache
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.CoreCompileInputs.cache
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.pdb
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.AssemblyReference.cache
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.Form1.resources
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh._2DangKy.resources
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.GiaoDienChinh.resources
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyHangHoa.resources
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyHoaDon.resources
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyKhachHang.resources
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyNhanVien.resources
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.GenerateResource.cache
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.pdb
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe.config
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.pdb
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.Properties.Resources.resources
+C:\Users\Do Khac Tu\Downloads\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.CoreCompileInputs.cache
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe.config
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.pdb
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.AssemblyReference.cache
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.SuggestedBindingRedirects.cache
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.Form1.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh._2DangKy.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.GiaoDienChinh.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.Properties.Resources.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyHangHoa.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyHoaDon.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyKhachHang.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.QuanLyNhanVien.resources
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.GenerateResource.cache
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.CoreCompileInputs.cache
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.pdb
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\BouncyCastle.Crypto.dll
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\itextsharp.dll
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\itextsharp.xml
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.ResolveComReference.cache
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.csproj.CopyComplete
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe.manifest
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\bin\Debug\QuanLyCuaHangHoaQuanFruitFresh.application
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.exe.manifest
+E:\Học Kì I (2022-2023)\Công Nghệ Phần Mềm\QuanLyCuaHangHoaQuanFruitFreshhh\QuanLyCuaHangHoaQuanFruitFresh\QuanLyCuaHangHoaQuanFruitFresh\obj\Debug\QuanLyCuaHangHoaQuanFruitFresh.application
